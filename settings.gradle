@@ -1,0 +1,2 @@
+rootProject.name = "A43GoogleMap01x"
+include ':app'
